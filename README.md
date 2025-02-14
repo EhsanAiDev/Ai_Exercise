@@ -1,3 +1,4 @@
+---
 
 ## ورزش با چاشتی هوش مصنوعی 💪😮!!
 
@@ -9,8 +10,3 @@
 
 
 ---
-🔴ویدیویی از عملکرد پروژه :
-
-![exercise](https://github.com/EhsanNaderlou/profile_images/blob/master/exercise.gif) 
-https://github.com/EhsanAiDev/Ai_Exercise
-# Ai_Exercise
